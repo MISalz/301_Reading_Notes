@@ -4,7 +4,7 @@
 
 Class | Reading|
 --|--
-[Class01]() | Introduction to React and Components
+[Class01](https://github.com/MISalz/301_Reading_Notes/blob/main/Class01.md) | Introduction to React and Components
 [Class02]() | 
 [Class03]() | 
 [Class04]() | 
