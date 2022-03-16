@@ -45,9 +45,9 @@ props are being passed in a uni-directional flow. (one way from parent to child)
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
 
 
---|--
+---
 ## Things I want to know more about
 - React components - https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909
 
---|--
+---
 ### [Home](https://github.com/MISalz/301_Reading_Notes)

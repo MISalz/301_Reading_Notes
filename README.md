@@ -5,7 +5,7 @@
 Class | Reading|
 --|--
 [Class01](https://github.com/MISalz/301_Reading_Notes/blob/main/Class01.md) | Introduction to React and Components
-[Class02](https://github.com/MISalz/301_Reading_Notes/blob/main/Class02.md) | 
+[Class02](https://github.com/MISalz/301_Reading_Notes/blob/main/Class02.md) | State and Props
 [Class03](https://github.com/MISalz/301_Reading_Notes/blob/main/Class03.md) | 
 [Class04](https://github.com/MISalz/301_Reading_Notes/blob/main/Class04.md) | 
 [Class05](https://github.com/MISalz/301_Reading_Notes/blob/main/Class05.md) | 
