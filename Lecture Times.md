@@ -79,7 +79,19 @@ try atleast 4 hours for lab
 </ul>|<ol><li>MongoDB 
 https://www.mongodb.com/atlas/database</li><li></li><li></li><li></li></ol>|
 
-|**3/29/2022 - Class 12:**| <ul></ul>|<ol><li></li><li></li><li></li><li></li></ol>|
+|**3/29/2022 - Class 12: PUT and DELETE**| <ul>9:03 assessment and week info
+9:13 code_challenge11 review
+9:29 lab11 review
+10:14 refactor
+10:38 code_challenge12  regex2
+10:43 Lecture
+10:48 CRUD
+10:56 iterating through Cats
+11:00 two components inside one file
+11:20 middleware
+11:25 CRUD delete
+11:35 findByIdAndDelete
+11:50 wire up front end</ul>|<ol><li>regex101.com</li><li>https://expressjs.com/en/guide/routing.html</li><li></li><li></li></ol>|
 
 |**3/30/2022 - Class 13:**| <ul></ul>|<ol><li></li><li></li><li></li><li></li></ol>|
 
