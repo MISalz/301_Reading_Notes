@@ -13,12 +13,12 @@
 [Class06](https://github.com/MISalz/301_Reading_Notes/blob/main/Class06.md)| NODE.JS
 [Class07](https://github.com/MISalz/301_Reading_Notes/blob/main/Class07.md)| REST
 [Class08](https://github.com/MISalz/301_Reading_Notes/blob/main/Class08.md)| APIs
-[Class09](https://github.com/MISalz/301_Reading_Notes/blob/main/Class09.md)| 
-[Class10](https://github.com/MISalz/301_Reading_Notes/blob/main/Class10.md)| 
-[Class11](https://github.com/MISalz/301_Reading_Notes/blob/main/Class11.md)| 
-[Class12](https://github.com/MISalz/301_Reading_Notes/blob/main/Class12.md)| 
-[Class13](https://github.com/MISalz/301_Reading_Notes/blob/main/Class13.md)| 
-[Class14](https://github.com/MISalz/301_Reading_Notes/blob/main/Class14.md)| 
-[Class15](https://github.com/MISalz/301_Reading_Notes/blob/main/Class15.md)| 
+[Class09](https://github.com/MISalz/301_Reading_Notes/blob/main/Class09.md)| Refactoring and modularizing our code
+[Class10](https://github.com/MISalz/301_Reading_Notes/blob/main/Class10.md)| Adding a cache
+[Class11](https://github.com/MISalz/301_Reading_Notes/blob/main/Class11.md)| Mongo DB and Mongoose
+[Class12](https://github.com/MISalz/301_Reading_Notes/blob/main/Class12.md)| PUT and DELETE
+[Class13](https://github.com/MISalz/301_Reading_Notes/blob/main/Class13.md)| Update/PUT
+[Class14](https://github.com/MISalz/301_Reading_Notes/blob/main/Class14.md)| Diversity and inclusion, assessment 
+[Class15](https://github.com/MISalz/301_Reading_Notes/blob/main/Class15.md)| Authentication Authorization and Auth0
 
 
