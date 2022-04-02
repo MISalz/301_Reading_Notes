@@ -19,78 +19,11 @@ Instructor **Sheyna Watkins**
 
 |**3/31/2022 - Class 14: Diversity and inclusion, assessment instructions**| <ul></ul>|<ol><li></li><li></li><li></li><li></li></ol>|
 
-|**4/1/2022 - Class 15: Authentication Authorization and Auth0**| <ul>9:05 project week
-code challenge video uploaded tonight
-9:11 am Lab13 review
-9:23 Carousel and design issues
-9:46 server email function
-9:58 Auth Zero
-
-wwrc - get on computer make a request -> pings auth zero ( does th euser authenticate) 
-yes - then you can  contact server and send token to request data -> token is processed by server -> auth with Authzero -> authzero response yes/no -> server sends back message to computer with response
+|**4/1/2022 - Class 15: Authentication Authorization and Auth0**| <ul>9:05 project week<br>code challenge video uploaded tonight<br>9:11 am Lab13 review<br>9:23 Carousel and design issues<br>9:46 server email function<br>9:58 Auth Zero<br><img src="img/2022-04-01_10-03-20 1.jpg"><br>wwrc - get on computer make a request -> pings auth zero ( does th euser authenticate) <br>yes - then you can  contact server and send token to request data -> token is processed by server -> auth with Authzero -> authzero response yes/no -> server sends back message to computer with response
 no -
-
-10:09 auth0 website registration intro
-https://auth0.com/
-10:22 react.strictmode vs auth0provider you can have both
-10:26 .env front end
-auth redirect home base front end 3000
-server = server back end 3001
-
-10:29 Login and Logout button
-10:30 profile
-10:31 functional component
-10:31 import bootstrap button on Login button
-10:32 import Auth0 to appjs
-
-export 
-
-authenticated with ternary statement
-
-
-10:42 content.js
-
-10:45 explanation of app.js working with content
-
-11:06 component did mount
-11:07 where info stores
-11:14 user info console.log
-
-
-
-11:16 Token
-Json webtoken =JWT proounced JOT
-
-
-
-11:19 todays assignment, generate a token, console log token shows in terminal
-11:20 extendeding Auth0 but not required for lab15 (maybe for project?)
-11:26 backend Auth0
-create new file auth.js
-
-install 
-
-use auth0
-
-create  call back funtion
-use split to modify token and only use token id
-verify token and export
-
-serverjs
-
-
-
-use code in GetBooks to use verify user function
-
-move try code into else part of auth
-
-update previous code from object to email
-
-11:36 run again with server 
-11:43 Final Projects
-project guidelines in GitHub class 15  
-1:30 meet back to discuss project guidelines![image](https://user-images.githubusercontent.com/61945783/161355561-6d52928e-9e59-405c-b3d9-3c09fb46ce12.png)
-</ul>|<ol><li></li><li></li><li></li><li></li></ol>|
+<img src="img/2022-04-01_10-05-48 2.jpg"><br>10:09 auth0 website registration intro<br>10:22 react.strictmode vs auth0provider you can have both<br>10:26 .env front end<br>auth redirect home base front end 3000<br>server = server back end 3001<br><img src="img/2022-04-01_10-28-20 3.jpg"><br>10:29 Login and Logout button<br>10:30 profile<br>10:31 functional component<br>10:31 import bootstrap button on Login button<br>10:32 import Auth0 to appjs<br><img src="img/2022-04-01_10-33-27 4.jpg"><br>export <br><img src="img/2022-04-01_10-33-54 5.jpg"><br>authenticated with ternary statement<br><img src="img/2022-04-01_10-38-03 6.jpg"><br>10:42 content.js<br><img src="img/2022-04-01_10-45-44 7.jpg"><br>10:45 explanation of app.js working with content<br><img src="img/2022-04-01_10-46-51 8.jpg"><br>11:06 component did mount<br>11:07 where info stores<br>11:14 user info console.log<br>
+<img src="img/2022-04-01_11-15-44 9.jpg"><br>
+<img src="img/2022-04-01_11-15-22 10.jpg"><br>11:16 Token<br>Json webtoken =JWT proounced JOT<br><img src="img/2022-04-01_11-19-40 11.jpg"><br><img src="img/2022-04-01_11-19-22 12.jpg"><br>11:19 todays assignment, generate a token, console log token shows in terminal<br>11:20 extendeding Auth0 but not required for lab15 (maybe for project?)<br>11:26 backend Auth0<br>create new file auth.js<br><img src="img/2022-04-01_11-28-36 14.jpg"><br>install <br><img src="img/2022-04-01_11-28-14 15.jpg"><br>use auth0<br><img src="img/2022-04-01_11-29-15 16.jpg">create  call back function<br>use split to modify token and only use token id<br>verify token and export<br><img src="img/2022-04-01_11-31-54 17.jpg"><br>serverjs<br><img src="img/2022-04-01_11-33-22 18.jpg"><br><img src="img/2022-04-01_11-33-50 19.jpg"><br>use code in GetBooks to use verify user function<br><img src="img/2022-04-01_11-34-29 20.jpg"><br>move try code into else part of auth<br><img src="img/2022-04-01_11-35-08 21.jpg"><br>update previous code from object to email<br><img src="img/2022-04-01_11-36-03 22.jpg"><br>11:36 run again with server <br>11:43 Final Projects<br>project guidelines in GitHub class 15  <br>1:30 meet back to discuss project guidelines</ul>|<ol><li>Auth https://auth0.com/</li><li></li><li></li><li></li></ol>|
 
 
 ---
